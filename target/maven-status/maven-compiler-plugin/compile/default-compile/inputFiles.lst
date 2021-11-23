@@ -1,0 +1,14 @@
+C:\Users\humbl\Documents\GitHub\crm-system\src\main\java\com\spring\dao\CustomerDAOImpl.java
+C:\Users\humbl\Documents\GitHub\crm-system\src\main\java\com\spring\config\SpringMvcDispatcherServletInitializer.java
+C:\Users\humbl\Documents\GitHub\crm-system\src\main\java\com\spring\config\SecurityConfig.java
+C:\Users\humbl\Documents\GitHub\crm-system\src\main\java\com\spring\config\AppConfig.java
+C:\Users\humbl\Documents\GitHub\crm-system\src\main\java\com\spring\config\SecurityWebApplicationInitializer.java
+C:\Users\humbl\Documents\GitHub\crm-system\src\main\java\com\spring\controller\RegistrationController.java
+C:\Users\humbl\Documents\GitHub\crm-system\src\main\java\com\spring\controller\LoginController.java
+C:\Users\humbl\Documents\GitHub\crm-system\src\main\java\com\spring\user\CrmUser.java
+C:\Users\humbl\Documents\GitHub\crm-system\src\main\java\com\spring\service\CustomerServiceImpl.java
+C:\Users\humbl\Documents\GitHub\crm-system\src\main\java\com\spring\entity\Customer.java
+C:\Users\humbl\Documents\GitHub\crm-system\src\main\java\com\spring\controller\CustomerController.java
+C:\Users\humbl\Documents\GitHub\crm-system\src\main\java\com\spring\service\CustomerService.java
+C:\Users\humbl\Documents\GitHub\crm-system\src\main\java\com\spring\dao\CustomerDAO.java
+C:\Users\humbl\Documents\GitHub\crm-system\src\main\java\com\spring\aspect\LoggingAspect.java
